@@ -1,0 +1,4 @@
+Hotel Fare: $6000.0
+Flight Fare: $3000.0
+Train Fare: $2000.0
+Bus Fare: $4000.0
